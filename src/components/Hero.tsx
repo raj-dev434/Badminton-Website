@@ -1,13 +1,13 @@
 const Hero = () => {
-    const handleStartTraining = () => {
-        // Scroll to features section
-        document.getElementById('features')?.scrollIntoView({ behavior: 'smooth' });
-    };
+    // const handleStartTraining = () => {
+    //     // Scroll to features section
+    //     document.getElementById('features')?.scrollIntoView({ behavior: 'smooth' });
+    // };
 
-    const handleLearnMore = () => {
-        // Scroll to training section
-        document.getElementById('training')?.scrollIntoView({ behavior: 'smooth' });
-    };
+    // const handleLearnMore = () => {
+    //     // Scroll to training section
+    //     document.getElementById('training')?.scrollIntoView({ behavior: 'smooth' });
+    // };
 
     return (
         <section id="hero" className="flex-1 flex flex-col justify-center items-start px-6 max-w-7xl mx-auto w-full">
