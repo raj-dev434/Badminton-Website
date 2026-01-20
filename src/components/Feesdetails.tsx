@@ -3,7 +3,7 @@ function Feesdetails() {
         {
             title: "Coaching Program",
             subtitle: "For Kids & Juniors",
-            price: "1200",
+            price: "1500",
             period: "per month",
             features: [
                 "Professional coaching",
